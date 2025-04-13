@@ -1,0 +1,20 @@
+{
+  "short_name": "Birthday",
+  "name": "🎂 Happy Birthday Thu Huyền 🎉",
+  "icons": [
+    {
+      "src": "/assets/shared/img/bubu-icon.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/shared/img/bubu-icon.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1b2431",
+  "background_color": "#ffffff"
+}
